@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Final_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project">
+				<Option output="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug/Final_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Final_Project/fast">
+				<Option output="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug/Final_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Final_Project/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/adamtorres/Desktop/SCHOOL/CS008/Final\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Application.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Application.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Button.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Button.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorGradient.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorGradient.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorPicker.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorPicker.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Constants.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/DropdownMenu.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/DropdownMenu.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/EventHandler.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileItem.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileItem.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileNode.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileNode.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileTree.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FileTree.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FontSelector.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/FontSelector.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/History.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/History.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/HueSelector.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/HueSelector.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Image.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Image.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ImageProperties.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/InputBox.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/InputBox.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Item.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Item.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ItemList.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ItemList.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/KeyShortcuts.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/KeyShortcuts.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/KeywordCompare.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/KeywordCompare.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Menu.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Menu.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/MenuBar.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/MenuBar.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Observer_Interface.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/OpenProjectWindow.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/OpenProjectWindow.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ProjectEditor.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ProjectEditor.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ProjectImage.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ProjectImage.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/SimpleTextBox.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/SimpleTextBox.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Slider.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Slider.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/SnapShot.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/States.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/States.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextCursor.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextCursor.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextInput.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextInput.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TopMenu.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TopMenu.h">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/main.cpp">
+			<Option target="Final_Project"/>
+		</Unit>
+		<Unit filename="/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

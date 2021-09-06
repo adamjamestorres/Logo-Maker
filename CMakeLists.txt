@@ -1,0 +1,70 @@
+cmake_minimum_required(VERSION 3.17)
+project(Final_Project)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+
+add_executable(Final_Project
+        TopMenu.cpp
+        TopMenu.h
+        TextInput.cpp
+        TextInput.h
+        TextCursor.h
+        TextCursor.cpp
+        States.cpp
+        States.h
+        SnapShot.h
+        Slider.cpp
+        Slider.h
+        SimpleTextBox.cpp
+        SimpleTextBox.h
+        ProjectImage.cpp
+        ProjectImage.h
+        ProjectEditor.h
+        ProjectEditor.cpp
+        OpenProjectWindow.cpp
+        OpenProjectWindow.h
+        Observer_Interface.h
+        MenuBar.cpp
+        MenuBar.h
+        Menu.cpp
+        Menu.h
+        KeywordCompare.cpp
+        KeywordCompare.h
+        KeyShortcuts.cpp
+        KeyShortcuts.h
+        ItemList.h
+        ItemList.cpp
+        Item.cpp
+        Item.h
+        InputBox.cpp
+        InputBox.h
+        ImageProperties.h
+        Image.cpp
+        Image.h
+        HueSelector.cpp
+        HueSelector.h
+        History.cpp
+        History.h
+        FontSelector.cpp
+        FontSelector.h
+        FileTree.cpp
+        FileTree.h
+        FileNode.cpp
+        FileNode.h
+        FileItem.cpp
+        FileItem.h
+        EventHandler.h
+        DropdownMenu.cpp
+        DropdownMenu.h
+        Constants.h
+        ColorPicker.cpp
+        ColorPicker.h
+        Button.cpp
+        Button.h
+        Application.cpp
+        Application.h
+        main.cpp
+        ColorGradient.cpp
+        ColorGradient.h)

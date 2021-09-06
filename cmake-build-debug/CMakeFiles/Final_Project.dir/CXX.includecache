@@ -1,0 +1,126 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorGradient.h
+SFML/Graphics.hpp
+-
+array
+-
+iostream
+-
+EventHandler.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/EventHandler.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorPicker.cpp
+ColorPicker.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorPicker.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorPicker.h
+History.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/History.h
+ColorGradient.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ColorGradient.h
+ImageProperties.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ImageProperties.h
+HueSelector.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/HueSelector.h
+Label.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Label.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/DropdownMenu.cpp
+DropdownMenu.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/DropdownMenu.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/DropdownMenu.h
+History.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/History.h
+ItemList.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ItemList.h
+InputBox.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/InputBox.h
+TextCursor.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextCursor.h
+sstream
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/EventHandler.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/GUI_Component.h
+SFML/Graphics.hpp
+-
+States.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/States.h
+SnapShot.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/SnapShot.h
+EventHandler.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/EventHandler.h
+Label.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Label.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/History.h
+GUI_Component.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/GUI_Component.h
+stack
+-
+iostream
+-
+sstream
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/HueSelector.h
+SFML/Graphics.hpp
+-
+EventHandler.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/EventHandler.h
+array
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ImageProperties.h
+string
+-
+SFML/graphics.hpp
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/InputBox.h
+memory
+-
+Item.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Item.h
+TextCursor.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextCursor.h
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Item.h
+SFML/Graphics.hpp
+-
+iostream
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/ItemList.h
+Item.h
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Item.h
+memory
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/Label.h
+SFML/Graphics.hpp
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/SnapShot.h
+list
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/States.h
+map
+-
+
+/Users/adamtorres/Desktop/SCHOOL/CS008/Final Project/TextCursor.h
+SFML/Graphics.hpp
+-
+iostream
+-
+
